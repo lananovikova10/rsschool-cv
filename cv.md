@@ -10,15 +10,15 @@ I want to gain knowledge and practice in a Frontend development to create projec
 
 ![Me](http://profyclub.ru/uploads/3/fb/178fc8b49892cac2dcd7b1f2b8c32.jpg)
 
-**First Name**: Svetlana 
-**Last Name**: Novikova
-**Age**: 31
-**Location**: Moscow, Russia
+* **First Name**: Svetlana 
+* **Last Name**: Novikova
+* **Age**: 31
+* **Location**: Moscow, Russia
 
 ## Contact info
 
-**Mobile phone**: +7 917 038 18 00
-**Telegram**: @Lananovikova
+* **Mobile phone**: +7 917 038 18 00
+* **Telegram**: @Lananovikova
 
 ## Skills
 
@@ -36,10 +36,10 @@ I want to gain knowledge and practice in a Frontend development to create projec
 
 I have a master degree in Political Science and a few courses completed: 
 
-- **QA Tools: bash shell** by LearnQA. July 2019
-- **Advanced Technical Writing** by documentat.io. October 2018
-- **Learn API Documentation with JSON and XML** by LinkedIn. August 2018
-- **Programming for Everybody (Python)** by Coursera. September 2015 
+* **QA Tools: bash shell** by LearnQA. July 2019
+* **Advanced Technical Writing** by documentat.io. October 2018
+* **Learn API Documentation with JSON and XML** by LinkedIn. August 2018
+* **Programming for Everybody (Python)** by Coursera. September 2015 
 
 ## English
 
