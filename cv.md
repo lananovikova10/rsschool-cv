@@ -2,7 +2,7 @@
 
 ## Intro
 
->Hi! My name is Svetlana. I create and promote different kinds of texts and visual information (schemas, infographic, >video) in Russian and English, know how to structure, acquire, and manage your company's unique knowledge. I am an >industrious, creative, responsible, and witty person, kind of a perfectionist. I have strong analytic skills and >love to investigate complex cases. I adore to take new knowledge and challenges and to set ambitious goals.
+>Hi! My name is Svetlana. I create and promote different kinds of texts and visual information (schemas, infographic, video) in Russian and English, know how to structure, acquire, and manage your company's unique knowledge. I am an industrious, creative, responsible, and witty person, kind of a perfectionist. I have strong analytic skills and love to investigate complex cases. I adore to take new knowledge and challenges and to set ambitious goals.
 
 I want to gain knowledge and practice in a Frontend development to create projects myself, read the code, and create working code samples. 
 
