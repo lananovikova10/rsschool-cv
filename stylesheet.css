@@ -7,15 +7,18 @@
   margin: auto;
 }
 
-p {
-    font-family: Garamond, Times, serif;
-    margin-top: 1em;
-    margin-bottom: 0.5em;    
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #2B7270;
 }
 
-
-h1 {
-    font-family: Verdana, Arial, Helvetica, sans-serif;
+p {
+    margin-top: 1em;
+    margin-bottom: 0.5em; 
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #6B8483;
 }
 
 figure {
@@ -30,11 +33,32 @@ figure {
     padding: 0.5em;
 }
 
-blockquote {
-    border: thick solid red;
-    border-radius: 1em;
-    box-shadow: black 0.5em 0.5em 0.3em;
-    margin-top: 1em;
-    margin-bottom: 0.5em;
+.portrait figcaption {
+    color: #A53E40;
 }
 
+blockquote {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    font-family: 'Roboto', sans-serif;
+    border: thick solid indianred;
+    border-radius: 1em;
+    box-shadow: #061b33 0.5em 0.5em 0.3em;
+}
+
+blockquote p {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    font-family: 'Roboto', sans-serif;
+    color: #84b0af;   
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #6B8483;
+}
