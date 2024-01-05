@@ -1,1 +1,1 @@
-[LINK to CV](/cv.md)
+[LINK to CV](https://lananovikova10.github.io/rsschool-cv/cv)
